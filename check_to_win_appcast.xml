@@ -3,7 +3,7 @@
     <channel>
         <title>Check to win - Appcast</title>
         <item>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.check_2_win" sparkle:version="2.0.6" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.check_2_win" sparkle:version="2.2.2" sparkle:os="android" />
         </item>
         <item>
             <description>Minor updates and improvements.</description>
