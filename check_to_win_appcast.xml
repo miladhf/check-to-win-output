@@ -7,7 +7,7 @@
         </item>
         <item>
             <description>Minor updates and improvements.</description>
-            <enclosure url="https://apps.apple.com/pl/app/check-to-win/id6477468320" sparkle:version="1000"sparkle:os="iOS"/>
+            <enclosure url="https://apps.apple.com/pl/app/check-to-win/id6477468320" sparkle:version="3.0.0"sparkle:os="iOS"/>
         </item>
     </channel>
 </rss>
