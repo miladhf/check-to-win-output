@@ -6,7 +6,7 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.check_2_win" sparkle:version="2.0.6" sparkle:os="android" />
         </item>
         <item>
-            <enclosure url="https://apps.apple.com/pl/app/check-to-win/id6477468320" sparkle:version="2.2.2" sparkle:os="iOS" />
+            <enclosure url="https://apps.apple.com/pl/app/check-to-win/id6477468320" sparkle:version="2.2.2"  sparkle:releaseNotes="" sparkle:os="iOS"/>
         </item>
     </channel>
 </rss>
