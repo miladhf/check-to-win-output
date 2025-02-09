@@ -6,7 +6,6 @@
             <enclosure url="https://play.google.com/store/apps/details?id=com.check_2_win" sparkle:version="3.0.0" sparkle:os="android" />
         </item>
         <item>
-            <description>Minor updates and improvements.</description>
             <enclosure url="https://apps.apple.com/pl/app/check-to-win/id6477468320" sparkle:version="3.0.0"sparkle:os="iOS"/>
         </item>
     </channel>
